@@ -4,7 +4,8 @@ In BW , we often restrict some value at report level with the help of characteri
 
 ## Opening Bex and the query where we want to enhance 
 
-![image](https://github.com/harrycodeswhileworldsleeps/Customer-Exit-EXIT_SAPLRSR0_001/assets/94862735/ffbf343c-775c-4d5f-af05-a0438eb32aae)
+![image](https://github.com/user-attachments/assets/f93106c3-f961-4706-8cba-c267df8db6bc)
+
 
 Here we will be finding the 'Service level date' as it is the one where we have to do the logic. that the document should not be older than 01.01.2023 in the report. 
 
